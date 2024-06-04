@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Zeilous12
-- 👀 I’m interested in Data Science and Machine Learning.
-- 🌱 I’m currently learning Data Analytics.
+- 👀 I’m interested in Data Science.
+- 🌱 I’m currently learning Generative AI.
 - 💞️ I’m looking to collaborate on Data Science projects.
 - ⚡ Fun fact: I was bitten by a python
 <!---
